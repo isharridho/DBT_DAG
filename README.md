@@ -1,5 +1,4 @@
-```md
-# DBT DAG Project
+## DBT DAG Project
 
 This project integrates **dbt** (Data Build Tool) with **Apache Airflow** to orchestrate and manage data pipelines. It uses **Astronomer Cosmos** to create Airflow DAGs for dbt projects and includes an example DAG for querying astronauts in space.
 
